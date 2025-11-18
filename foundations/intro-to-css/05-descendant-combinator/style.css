@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+div p,
+.container .text,
+div .text,
+.container p{
+    background-color:yellow;
+    color: rgb(255, 100, 100);
+    font-size: 20px;
+    text-align: center;
+}
